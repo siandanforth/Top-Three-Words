@@ -1,0 +1,19 @@
+{
+  "name": "don-quixote-text-match",
+  "version": "1.0.0",
+  "description": "/node_modules /.pnp .pnp.js",
+  "main": "donQFunction.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Siân Dqnforth",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.5",
+    "jest": "^26.6.3"
+  }
+}
